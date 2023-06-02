@@ -1,0 +1,79 @@
+header{
+    background-color: #0020F4;
+    width:1920px;
+    height: 387.56px;
+}
+
+.site_Logo{
+    width: 115px;
+    height: 65px;
+    margin-left:240px;
+    margin-top:40px;
+}
+ul{
+    margin-left: 603px;
+    margin-top: -37px;
+
+}
+li{
+    display:inline;
+    font-size:16px;
+    font-family: Helvetica;
+    list-style-type: none; 
+    text-decoration: none;
+    padding-left: 43px;
+    
+}
+
+li a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.Contact{
+    
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color:#171717;
+    width: 160px;
+    height: 55px;
+    
+    
+    
+}
+.Building-Photo{
+    width: 1195px;
+    height: 600px;
+    
+    margin-top:-215px;
+    display: block;
+}
+ 
+.Sky-photos{
+    margin-left:362px;
+}
+
+article p{
+    margin-left:362px;
+}
+
+.more-info{
+    margin-left:790px;
+    background-color: #0A22F4;
+    border-radius: 28px;
+    font-size: 16px;
+    color:#FFFFFF;
+    width: 341px;
+    height:41px ;
+    text-align: center;
+    
+}
+
+footer{
+    background-color:#0020F4;
+    
+}
+
+
+
+
