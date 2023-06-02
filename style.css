@@ -18,7 +18,6 @@ ul{
 li{
     display:inline;
     font-size:16px;
-    font-family: Helvetica;
     list-style-type: none; 
     padding-left: 43px;
     
@@ -34,45 +33,59 @@ li a{
     background-color: #FFFFFF;
     color:#171717;
     max-width: 160px;
+    width: 100%;
     height: 55px;
-    
-    
-    
 }
+    
+    
+    
+    
+    
+
 .Building-Photo{
-    max-width: 1195px;
-    height: 600px;
+    max-width: 1000px;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+    margin-top: -100px;
     display: block;
 }
  
 .Sky-photos{
-    margin-left:362px;
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 article p{
-    margin-left:362px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+h2{
+
+   text-align: center;
+   margin-right:50px;
 }
 
 .more-info{
-    margin-left:790px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #0A22F4;
     border-radius: 28px;
     font-size: 16px;
     color:#FFFFFF;
     max-width: 341px;
-    height:41px ;
-    text-align: center;
-    
+    width: 100%;
+    text-align:center;
 }
 
-footer{
-    background-color:#0020F4;
-    
-}
+
 
 
 
