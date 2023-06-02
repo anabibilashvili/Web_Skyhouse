@@ -1,11 +1,11 @@
 header{
     background-color: #0020F4;
-    width:1920px;
+    max-width:1920px;
     height: 387.56px;
 }
 
 .site_Logo{
-    width: 115px;
+    max-width: 115px;
     height: 65px;
     margin-left:240px;
     margin-top:40px;
@@ -20,7 +20,6 @@ li{
     font-size:16px;
     font-family: Helvetica;
     list-style-type: none; 
-    text-decoration: none;
     padding-left: 43px;
     
 }
@@ -33,19 +32,20 @@ li a{
 .Contact{
     
     background-color: #FFFFFF;
-    text-decoration: none;
     color:#171717;
-    width: 160px;
+    max-width: 160px;
     height: 55px;
     
     
     
 }
 .Building-Photo{
-    width: 1195px;
+    max-width: 1195px;
     height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
-    margin-top:-215px;
     display: block;
 }
  
@@ -63,7 +63,7 @@ article p{
     border-radius: 28px;
     font-size: 16px;
     color:#FFFFFF;
-    width: 341px;
+    max-width: 341px;
     height:41px ;
     text-align: center;
     
